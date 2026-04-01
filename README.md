@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌐 [paul-schick.com](https://paul-schick.com)
+
 <!--
 **paulschick/paulschick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
