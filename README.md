@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Paul, a software developer who enjoys building things on the web.
+I’m Paul, a software developer and architect who enjoys building things on the web.
 
 🌐 [paul-schick.com](https://paul-schick.com)
 
